@@ -16,6 +16,12 @@
   <packaging>pom</packaging>
   <name>jbundle-util-reactor - Standalone utilities parent</name>
 
+  <scm>
+    <url>https://github.com/jbundle/jbundle-util</url>
+    <connection>scm:git:git://github.com/jbundle/jbundle-util.git</connection>
+    <developerConnection>scm:git:git@github.com:jbundle/jbundle-util.git</developerConnection>
+  </scm>
+
   <modules>
     <module>apprunner</module>
     <module>jbackup</module>
