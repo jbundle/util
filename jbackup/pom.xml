@@ -4,7 +4,7 @@
   <parent>
   	<artifactId>jbundle-util-reactor</artifactId>
   	<groupId>org.jbundle.util</groupId>
-  	<version>0.7.7</version>
+  	<version>0.7.8-SNAPSHOT</version>
   </parent>
 
   <artifactId>org.jbundle.util.jbackup</artifactId>
@@ -44,7 +44,7 @@
     <dependency>
       <groupId>org.jbundle.util</groupId>
       <artifactId>org.jbundle.util.apprunner</artifactId>
-      <version>0.7.7</version>
+      <version>0.7.8-SNAPSHOT</version>
     </dependency>
     <!-- dependency>
       <groupId>net.sourceforge.bbtools</groupId>

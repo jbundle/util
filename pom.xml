@@ -11,7 +11,7 @@
 
   <groupId>org.jbundle.util</groupId>
   <artifactId>jbundle-util-reactor</artifactId>
-  <version>0.7.7</version>
+  <version>0.7.8-SNAPSHOT</version>
 
   <packaging>pom</packaging>
   <name>jbundle-util-reactor - Standalone utilities parent</name>
