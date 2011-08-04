@@ -5,13 +5,13 @@
   <parent>
     <artifactId>jbundle-parent</artifactId>
     <groupId>org.jbundle.config</groupId>
-    <version>1.0.4</version>
+    <version>1.0.5-SNAPSHOT</version>
     <relativePath>../../jbundle-parent</relativePath>
   </parent>
 
   <groupId>org.jbundle.util</groupId>
   <artifactId>jbundle-util-reactor</artifactId>
-  <version>0.7.10-SNAPSHOT</version>
+  <version>0.8.0-SNAPSHOT</version>
 
   <packaging>pom</packaging>
   <name>jbundle-util-reactor - Standalone utilities parent</name>
