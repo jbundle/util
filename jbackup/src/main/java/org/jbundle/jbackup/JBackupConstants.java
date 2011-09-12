@@ -2,8 +2,9 @@
  * Constants.java
  *
  * Created on April 24, 2000, 4:31 AM
- */
  
+ * Copyright © 2011 jbundle.org. All rights reserved.
+ */
 package org.jbundle.jbackup;
 
 /** 

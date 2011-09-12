@@ -2,8 +2,9 @@
  * MuffinManager.java
  *
  * Created on January 30, 2001, 12:14 AM
- */
  
+ * Copyright © 2011 jbundle.org. All rights reserved.
+ */
 package org.jbundle.util.muffinmanager;
 
 import java.io.InputStream;

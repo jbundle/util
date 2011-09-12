@@ -2,8 +2,9 @@
  * FileExtensionFilter.java
  *
  * Created on April 9, 2000, 5:09 AM
- */
  
+ * Copyright © 2011 jbundle.org. All rights reserved.
+ */
 package org.jbundle.jbackup.util;
 
 import java.io.*;

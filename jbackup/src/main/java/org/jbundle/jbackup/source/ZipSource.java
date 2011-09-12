@@ -2,8 +2,9 @@
  * DirScanner.java
  *
  * Created on January 29, 2000, 6:33 AM
- */
  
+ * Copyright © 2011 jbundle.org. All rights reserved.
+ */
 package org.jbundle.jbackup.source;
 
 import java.io.FileInputStream;

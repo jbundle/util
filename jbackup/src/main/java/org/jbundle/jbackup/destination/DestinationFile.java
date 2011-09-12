@@ -2,8 +2,9 @@
  * FileDestination.java
  *
  * Created on April 10, 2000, 3:19 AM
- */
  
+ * Copyright © 2011 jbundle.org. All rights reserved.
+ */
 package org.jbundle.jbackup.destination;
 
 import java.util.Properties;

@@ -2,8 +2,9 @@
  * PathFilter.java
  *
  * Created on May 1, 2000, 4:59 AM
- */
  
+ * Copyright © 2011 jbundle.org. All rights reserved.
+ */
 package org.jbundle.jbackup.filter;
 
 import java.io.*;
