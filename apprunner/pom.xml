@@ -6,7 +6,7 @@
   <parent>
   	<artifactId>jbundle-util-reactor</artifactId>
   	<groupId>org.jbundle.util</groupId>
-  	<version>0.8.0-SNAPSHOT</version>
+  	<version>0.8.0</version>
   </parent>
 
   <artifactId>org.jbundle.util.apprunner</artifactId>
