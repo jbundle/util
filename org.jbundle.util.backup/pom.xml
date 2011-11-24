@@ -26,7 +26,7 @@
           <instructions>
             <Bundle-ManifestVersion>2</Bundle-ManifestVersion>
             <Main-Class>org.jbundle.util.backup.Backup</Main-Class>
-            <Bundle-SymbolicName>${project.groupId}.${project.artifactId}</Bundle-SymbolicName>
+            <Bundle-SymbolicName>${project.artifactId}</Bundle-SymbolicName>
             <Export-Package>*;version=${project.version}</Export-Package>
             <Bundle-Version>${project.version}</Bundle-Version>
             <!-- These jars must be in the same directory as jbackup.jar -->
