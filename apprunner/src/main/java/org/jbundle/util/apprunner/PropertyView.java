@@ -1,6 +1,6 @@
 /*
  * @(#)PropertyView.java	1.13 98/08/28
- * Copyright © 2011 jbundle.org. All rights reserved.
+ * Copyright © 2012 jbundle.org. All rights reserved.
  */
 package org.jbundle.util.apprunner;
 

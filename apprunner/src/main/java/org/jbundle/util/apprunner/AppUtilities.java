@@ -3,7 +3,7 @@
  *
  * Created on April 10, 2000, 1:38 AM
  
- * Copyright © 2011 jbundle.org. All rights reserved.
+ * Copyright © 2012 jbundle.org. All rights reserved.
  */
 package org.jbundle.util.apprunner;
 

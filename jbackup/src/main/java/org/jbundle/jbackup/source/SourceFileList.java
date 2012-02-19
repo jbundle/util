@@ -3,7 +3,7 @@
  *
  * Created on April 10, 2000, 3:21 AM
  
- * Copyright © 2011 jbundle.org. All rights reserved.
+ * Copyright © 2012 jbundle.org. All rights reserved.
  */
 package org.jbundle.jbackup.source;
 

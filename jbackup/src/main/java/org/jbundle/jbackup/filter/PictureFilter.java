@@ -3,7 +3,7 @@
  *
  * Created on May 1, 2000, 4:59 AM
  
- * Copyright © 2011 jbundle.org. All rights reserved.
+ * Copyright © 2012 jbundle.org. All rights reserved.
  */
 package org.jbundle.jbackup.filter;
 
