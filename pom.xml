@@ -30,7 +30,7 @@
   </modules>
   
   <properties>
-    <jbundleScmPath>util/util</jbundleScmPath>
+    <projectName>util</projectName>
   </properties>
 
 </project>
