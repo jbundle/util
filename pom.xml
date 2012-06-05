@@ -30,7 +30,7 @@
   </modules>
   
   <properties>
-    <projectName>util</projectName>
+    <projectName>jbundle-util</projectName>
   </properties>
 
 </project>
