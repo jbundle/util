@@ -20,6 +20,7 @@
       <artifactId>javaws</artifactId>
       <version>${java.specification.version}</version>
       <scope>system</scope>
+      <optional>true</optional>
       <systemPath>${java.home}/lib/javaws.jar</systemPath>
     </dependency>
   </dependencies>
