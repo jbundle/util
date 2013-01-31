@@ -44,7 +44,7 @@
     <dependency>
       <groupId>org.jbundle.util</groupId>
       <artifactId>org.jbundle.util.apprunner</artifactId>
-      <version>2.0.3-SNAPSHOT</version>
+      <version>${jbundle-util-version-range}</version>
     </dependency>
     <!-- dependency>
       <groupId>net.sourceforge.bbtools</groupId>
