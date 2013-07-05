@@ -77,7 +77,7 @@ public class Util extends Object {
 	}
 	/*
 	 * Create a new object using this class name.
-	 * Conform to the standardized classname format: com.tourapp.terminal.src/dest.name.namesrc/dest
+	 * Conform to the standardized classname format: com.tourgeek.terminal.src/dest.name.namesrc/dest
 	 */
 	public static Object makeObjectFromClassName(String interfaceName, String strPackage, String strClassName)
 	{
