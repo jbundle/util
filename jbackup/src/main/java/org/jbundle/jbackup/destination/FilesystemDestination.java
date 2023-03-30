@@ -39,7 +39,7 @@ public class FilesystemDestination extends BaseDestination
 	}
 	/**
 	 * Creates new DirScanner.
-	 * @param lMaxZipFileSize If zip file is going to be larger than this, split it up into smaller files.
+	 * @param properties If zip file is going to be larger than this, split it up into smaller files.
 	 */
 	public FilesystemDestination(Properties properties)
 	{

@@ -59,8 +59,8 @@ public class AppUtilities extends Object {
 	// TODO (don) This came straight from jbundle. Have jbundle.thin.util inherit from this
     /**
      * Parse this URL formatted string into properties.
-     * @properties The properties object to add the params to.
-     * @args The arguments to parse (each formatted as key=value).
+     * @param properties The properties object to add the params to.
+     * @param args The arguments to parse (each formatted as key=value).
      */
     public static Properties parseArgs(Properties properties, String[] args)
     {
@@ -75,8 +75,8 @@ public class AppUtilities extends Object {
     /**
      * Parse the param line and add it to this properties object.
      * (ie., key=value).
-     * @properties The properties object to add this params to.
-     * @param strParam param line in the format param=value
+     * @param properties The properties object to add this params to.
+     * @param strParams param line in the format param=value
      */
     public static void addParam(Properties properties, String strParams, boolean bDecodeString)
     {

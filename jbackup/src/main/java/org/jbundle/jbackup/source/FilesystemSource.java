@@ -78,7 +78,7 @@ public class FilesystemSource extends BaseSource
 	/** Returns the next element in the iteration.
 	 * (Returns a SourceFileObject).
 	 *
-	 * @returns the next element in the iteration.
+	 * @return the next element in the iteration.
 	 * @exception NoSuchElementException iteration has no more elements.
 	 */
 	public SourceFile next() {

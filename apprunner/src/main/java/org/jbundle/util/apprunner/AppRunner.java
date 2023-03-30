@@ -74,7 +74,6 @@ public abstract class AppRunner extends JApplet
 	/**
 	 * Set property.
 	 * @param key
-	 * @return
 	 */
     public void setProperty(String key, String value)
     {

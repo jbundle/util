@@ -90,11 +90,11 @@ public class BaseSource extends Object
 	 */
 	public void setProperties(final java.util.Properties p1) {
 	}
-	/** Returns <tt>true</tt> if the iteration has more elements. (In other
-	 * words, returns <tt>true</tt> if <tt>next</tt> would return an element
+	/** Returns true if the iteration has more elements. (In other
+	 * words, returns true if next would return an element
 	 * rather than throwing an exception.)
 	 *
-	 * @return <tt>true</tt> if the iterator has more elements.
+	 * @return true if the iterator has more elements.
 	 */
 	public boolean hasNext() {
 		if (m_nextPend != null)
@@ -108,7 +108,7 @@ public class BaseSource extends Object
 	/** Returns the next element in the interation.
 	 * (Returns a SourceFileObject).
 	 *
-	 * @returns the next element in the interation.
+	 * @return the next element in the iteration.
 	 * @exception NoSuchElementException iteration has no more elements.
 	 */
 	public boolean isPend()
@@ -126,7 +126,7 @@ public class BaseSource extends Object
 	 *}
 	 * </pre>
 	 *
-	 * @returns the next element in the interation.
+	 * @return the next element in the iteration.
 	 * @exception NoSuchElementException iteration has no more elements.
 	 */
 	public SourceFile getPend()
@@ -135,7 +135,7 @@ public class BaseSource extends Object
 		m_nextPend = null;
 		return nextPend;
 	}
-	/** Returns the next element in the interation.
+	/** Returns the next element in the iteration.
 	 * (Returns a SourceFileObject).
 	 */
 	public SourceFile next()
@@ -147,16 +147,16 @@ public class BaseSource extends Object
 	/**
 	 * Removes from the underlying collection the last element returned by the
 	 * iterator (optional operation).  This method can be called only once per
-	 * call to <tt>next</tt>.  The behavior of an iterator is unspecified if
+	 * call to next.  The behavior of an iterator is unspecified if
 	 * the underlying collection is modified while the iteration is in
 	 * progress in any way other than by calling this method.
 	 *
-	 * @exception UnsupportedOperationException if the <tt>remove</tt>
+	 * @exception UnsupportedOperationException if the remove
 	 * 		  operation is not supported by this Iterator.
 	 *
-	 * @exception IllegalStateException if the <tt>next</tt> method has not
-	 * 		  yet been called, or the <tt>remove</tt> method has already
-	 * 		  been called after the last call to the <tt>next</tt>
+	 * @exception IllegalStateException if the next method has not
+	 * 		  yet been called, or the remove method has already
+	 * 		  been called after the last call to the next
 	 * 		  method.
 	 */
 	public void remove() {

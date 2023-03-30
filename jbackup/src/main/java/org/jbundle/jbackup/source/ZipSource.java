@@ -90,7 +90,7 @@ public class ZipSource extends BaseSource
 	/** Returns the next element in the interation.
 	 * (Returns a SourceFileObject).
 	 *
-	 * @returns the next element in the interation.
+	 * @return the next element in the interation.
 	 * @exception NoSuchElementException iteration has no more elements.
 	 */
 	public SourceFile next()
